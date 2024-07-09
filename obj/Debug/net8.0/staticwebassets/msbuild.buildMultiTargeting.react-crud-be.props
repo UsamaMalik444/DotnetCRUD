@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\react-crud-be.props" />
+</Project>
